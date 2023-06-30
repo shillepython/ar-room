@@ -1,0 +1,28 @@
+
+
+model-viewer {
+  width: 400px;
+  height: 400px;
+  background-color: #ffffff;
+  border: 1px solid #ababab;
+  margin-right: 20px;
+}
+a {
+  border: 1px solid #ababab;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+  background-color: #ededed;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+
+.modelView {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
